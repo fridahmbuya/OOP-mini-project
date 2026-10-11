@@ -58,4 +58,3 @@ Several project inputs are illustrative or synthetic and are labelled as such in
 
 AI coding assistance was used during development to help draft and revise project classes, notebook analyses and explanations, pytest tests, and the test workflow; to investigate errors; and to validate the work by running tests and notebook code cells. AI assistance does not replace the student's responsibility for the submitted work.
 
-Before submission, review the repository, verify that this declaration accurately describes your use of AI, and revise it if needed. Make sure you can explain the code, equations, assumptions, test cases and notebook results in your own words, including during a viva. Follow your course's rules for citation and disclosure, and do not present generated or assisted work as work you do not understand.
